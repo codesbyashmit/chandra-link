@@ -975,7 +975,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 0.75rem;
+    font-size: 0.77rem;
     color: var(--text-muted);
     flex-wrap: wrap;
     gap: var(--space-sm);
