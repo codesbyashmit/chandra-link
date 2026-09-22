@@ -173,11 +173,11 @@ The modular pipeline extends naturally to future ISRO missions such as Mangalyaa
 **Game of Nodes** — Smart India Hackathon 2026
 
 **Team Members** 
-Ashmit Kumar **(Team Leader)**
-Harshita Chauhan
-Aditya Gupta
-Aditya Kumar
-Tanushka Gupta
+Ashmit Kumar, 
+Harshita Chauhan, 
+Aditya Gupta, 
+Aditya Kumar, 
+Tanushka Gupta, 
 Dev Prakash Azad
 
 ## License
